@@ -31,43 +31,6 @@ python dna_vault_pro.py
 <img width="631" height="994" alt="image" src="https://github.com/user-attachments/assets/1a27fe3d-af0b-4700-8ce4-16033bdeb41b" />
 
 
-## Demo
-
-sherin-dna-vault/
-├── 📄 README.md                    # Main showcase (MOST IMPORTANT)
-├── 📁 src/
-│   ├── dna_vault_pro.py           # Core implementation
-│   ├── dna_encoder.py             # DNA encoding logic
-│   ├── crypto_handler.py          # Encryption/decryption
-│   └── merkle_ledger.py           # Audit system
-├── 📁 examples/
-│   ├── DNA-WIN-f70afe2e_sequences.txt    # Your generated DNA
-│   ├── quickstart.py              # 5-minute demo
-│   └── custom_secret.py           # User customization
-├── 📁 docs/
-│   ├── ARCHITECTURE.md            # Technical design
-│   ├── WINDOWS_GUIDE.md           # Windows-specific setup
-│   ├── LINUX_GUIDE.md             # Linux setup
-│   ├── SYNTHESIS_GUIDE.md         # How to order DNA
-│   └── GRANT_APPLICATION.md       # Funding template
-├── 📁 tests/
-│   ├── test_encryption.py
-│   ├── test_dna_encoding.py
-│   └── test_recovery.py
-├── 📁 assets/
-│   ├── screenshots/
-│   │   ├── windows_success.png
-│   │   ├── linux_success.png
-│   │   └── dna_output.png
-│   └── diagrams/
-│       ├── architecture.png
-│       └── dna_encoding.png
-├── 📄 requirements.txt            # Dependencies
-├── 📄 LICENSE                     # MIT License
-├── 📄 .gitignore                  # Standard Python
-├── 📄 setup.py                    # For pip install
-├── 📄 pyproject.toml              # Modern Python packaging
-└── 📄 CONTRIBUTING.md             # How to contribute
 
 (.venv) PS C:\Users\rafee\Documents\sherin-dna-windows> python dna_vault_pro.py
 ╔══════════════════════════════════════════════════════╗
